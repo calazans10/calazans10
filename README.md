@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, World! 🌎 
 
 My name is Jeferson and I'm a passionate software developer with a degree in Computer Science.
 
