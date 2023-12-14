@@ -60,11 +60,11 @@
                 <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
             </td>
         </tr>
-<!--          <tr>
+        <tr>
             <td>CI/CD</td>
             <td>
-                <img src="https://img.shields.io/badge/Buildkite-0ecd80?style=for-the-badge&logo=buildkite&logoColor=white" alt="Buildkite">
-                <img src="https://img.shields.io/badge/Github%20Actions-002f67?style=for-the-badge&logo=githubactions&logoColor=white" alt="Github Actions">
+                <img src="https://img.shields.io/badge/Github%20Actions-002f67?style=for-the-badge&logo=githubactions&logoColor=white" alt="Github Actions">                
+                <img src="https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white" alt="Travis CI">
             </td>
         </tr> -->
     </tbody>
