@@ -27,8 +27,12 @@
         <tr>
             <td>Backend</td>
             <td>
+                <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"  alt="Golang">
+                <img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white"  alt="Elixir">
                 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"  alt="Python">
                 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"  alt="Django">
+                <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"  alt="Ruby">
+                <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white  alt="Rails">
                 <img src="https://img.shields.io/badge/REST-078eca?style=for-the-badge&logo=json&logoColor=white"  alt="Rest">
                 <img src="https://img.shields.io/badge/GraphQL-e534ab?style=for-the-badge&logo=graphql&logoColor=white"  alt="GraphQL">
                 <img src="https://img.shields.io/badge/AWS-ff9a01?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
