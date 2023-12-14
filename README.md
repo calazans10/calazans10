@@ -45,6 +45,7 @@
                 <img src="https://img.shields.io/badge/REST-078eca?style=for-the-badge&logo=json&logoColor=white"  alt="Rest">
                 <img src="https://img.shields.io/badge/GraphQL-e534ab?style=for-the-badge&logo=graphql&logoColor=white"  alt="GraphQL">
                 <img src="https://img.shields.io/badge/AWS-ff9a01?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+                <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)" alt="Heroku">
             </td>
         </tr>
         <tr>
@@ -58,6 +59,7 @@
             <td>Tools</td>
             <td>
                 <img src="https://img.shields.io/badge/GIT-f34f29?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+                <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
                 <img src="https://img.shields.io/badge/NPM-cd3533?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
                 <img src="https://img.shields.io/badge/yarn-2c8eba?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn">
                 <img src="https://img.shields.io/badge/webpack-2e4c84?style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack">
