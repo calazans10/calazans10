@@ -41,30 +41,26 @@
                 <img src="https://img.shields.io/badge/AWS-ff9a01?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
             </td>
         </tr>
-<!--         <tr>
+        <tr>
             <td>Tools</td>
             <td>
                 <img src="https://img.shields.io/badge/GIT-f34f29?style=for-the-badge&logo=git&logoColor=white" alt="Git">
                 <img src="https://img.shields.io/badge/NPM-cd3533?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
-                <img src="https://img.shields.io/badge/pnpm-f69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="PNPM">
                 <img src="https://img.shields.io/badge/yarn-2c8eba?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn">
                 <img src="https://img.shields.io/badge/webpack-2e4c84?style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack">
-                <img src="https://img.shields.io/badge/Lerna-aa2afe?style=for-the-badge&logo=lerna&logoColor=white" alt="Lerna">
-                <img src="https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=white" alt="TurboRepo">
-                <img src="https://img.shields.io/badge/Expo-141718?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
+                <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
             </td>
         </tr>
-        <tr>
+       <tr>
             <td>Testing</td>
             <td>
                 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
                 <img src="https://img.shields.io/badge/Testing_Library-f5403f?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Testing Library">
                 <img src="https://img.shields.io/badge/Enzyme-fe4669?style=for-the-badge&logo=airbnb&logoColor=white" alt="Enzyme">
                 <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
-                <img src="https://img.shields.io/badge/Cypress-131521?style=for-the-badge&logo=cypress&logoColor=69d3a7" alt="Cypress">
             </td>
         </tr>
-        <tr>
+<!--          <tr>
             <td>CI/CD</td>
             <td>
                 <img src="https://img.shields.io/badge/Buildkite-0ecd80?style=for-the-badge&logo=buildkite&logoColor=white" alt="Buildkite">
