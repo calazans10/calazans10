@@ -4,7 +4,7 @@
 
 <p>I have been working as a Software Developer for the past twelve years. Since then, I have already worked for several technology companies in various industries.</p>
 
-<p>I'm always open minded and eager to learn new methodologies and technologies.</p>
+<p>I’m always open-minded and eager to learn new methodologies and technologies.</p>
 
 <h2>Get in touch 📫</h2>
 <p>
