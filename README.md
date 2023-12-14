@@ -48,6 +48,13 @@
             </td>
         </tr>
         <tr>
+            <td>Databases</td>
+            <td>
+                <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=whitee" alt="Postgres">
+                <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+            </td>
+        </tr>
+        <tr>
             <td>Tools</td>
             <td>
                 <img src="https://img.shields.io/badge/GIT-f34f29?style=for-the-badge&logo=git&logoColor=white" alt="Git">
