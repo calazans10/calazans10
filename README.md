@@ -64,6 +64,7 @@
                 <img src="https://img.shields.io/badge/yarn-2c8eba?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn">
                 <img src="https://img.shields.io/badge/webpack-2e4c84?style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack">
                 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+                <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=typesense&logoColor=white" alt="Typesense">
             </td>
         </tr>
        <tr>
