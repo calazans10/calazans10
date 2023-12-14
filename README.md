@@ -66,6 +66,6 @@
                 <img src="https://img.shields.io/badge/Github%20Actions-002f67?style=for-the-badge&logo=githubactions&logoColor=white" alt="Github Actions">                
                 <img src="https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white" alt="Travis CI">
             </td>
-        </tr> -->
+        </tr>
     </tbody>
 </table>
