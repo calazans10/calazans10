@@ -12,6 +12,13 @@
   <a href="mailto:calazans10@gmail.com?subject=Hello%20Jeferson,%20From%20Github" aria-label="Contact via Email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
 </p>
 
+<h2>Github statistics 📈</h2>
+<p>
+  <a href="https://github.com/calazans10">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calazans10&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calazans10&layout=compact&langs_count=7&theme=transparent"/>
+</p>
+
 <h2>Skills ⚡️</h2>
 <table>
     <thead>
