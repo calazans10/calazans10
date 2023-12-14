@@ -6,6 +6,12 @@
 
 <p>I'm always open minded and eager to learn new methodologies and technologies.</p>
 
+<h2>📫 Get in touch</h2>
+<p>
+  <a target="_blank" href="https://br.linkedin.com/in/calazans10" aria-label="Contact via LinkedIn "><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:calazans10@gmail.com?subject=Hello%20Jeferson,%20From%20Github" aria-label="Contact via Email"><img src="https://img.shields.io/badge/email-e836f0?&style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>&nbsp;
+</p>
+
 <h2>Skills ⚡️</h2>
 <table>
     <thead>
