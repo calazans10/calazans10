@@ -27,7 +27,7 @@
         <tr>
             <td>Backend</td>
             <td>
-                <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=python&logoColor=white"  alt="Python">
+                <img src="https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=white"  alt="Python">
                 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=django&logoColor=white"  alt="Django">
                 <img src="https://img.shields.io/badge/REST-078eca?style=for-the-badge&logo=json&logoColor=white"  alt="Rest">
                 <img src="https://img.shields.io/badge/GraphQL-e534ab?style=for-the-badge&logo=graphql&logoColor=white"  alt="GraphQL">
