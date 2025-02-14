@@ -1,8 +1,8 @@
 <h1>Hello, World! 🌎</h1>
 
-<p>My name is Jeferson and I'm a passionate software developer with a degree in Computer Science.</p>
+<p>My name is Jeferson, and I'm a passionate software developer with a degree in Computer Science.</p>
 
-<p>I have been working as a Software Developer for the past twelve years. Since then, I have already worked for several technology companies in various industries.</p>
+<p>I have been a Software Developer for the past twelve years, working for several technology companies in various industries.</p>
 
 <p>I’m always open-minded and eager to learn new methodologies and technologies.</p>
 
